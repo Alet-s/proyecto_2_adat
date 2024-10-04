@@ -76,7 +76,7 @@ public class GestorArchivosSwing extends JFrame {
         gbc.gridy = 3;
         panelSuperior.add(btnAgregar, gbc);
 
-        // Añadimos el panel superior a la ventana principal
+        // Añadimos el panel superior a la ventana principal.
         gbc.gridx = 0;
         gbc.gridy = 0;
         gbc.gridwidth = 2;
